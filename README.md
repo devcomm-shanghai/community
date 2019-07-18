@@ -4,7 +4,7 @@ Welcome to Dev Comm Shanghai! We're glad to have you here.
 
 ## 关于我们
 
-我们是由[上海交通大学东岳网络工作室](https://dongyueweb.com/)，[SJTU *NIX User Group](http://sjtug.org/) 和[上海大学开源社区](https://osc.shu.edu.cn/)，[上海科技大学 GeekPie](https://geekpie.org/) 组成的名字待定团体。
+我们是由[上海交通大学东岳网络工作室](https://dongyueweb.com/)，[SJTU *NIX User Group](http://sjtug.org/) 和[上海大学开源社区](https://osc.shu.edu.cn/)，[上海科技大学 GeekPie](https://www.geekpie.club/) 组成的名字待定团体。
 
 ## 目前的活动
 
